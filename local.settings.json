@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<< Azure Function storage account connection string >>",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "<< Application Insights Instrumentation Key >>",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "<< Application Insights Connection String >>",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "<< Azure Function storage account connection string >>",
+    "WEBSITE_CONTENTSHARE": "<< Azure Function storage account content fileshare >>",
+    "CosmosDbConnectionString": "<< CosmosDB Connection String >>",
+    "ServiceBusConnectionString": "<< Service Bus Connection String >>"
+  }
+}
